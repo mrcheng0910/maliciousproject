@@ -1,0 +1,3 @@
+http://www.baidu.com/Yes	[{'Quttera': 'malicious site'}]
+http://www.google.com/	No	
+http://www.youtube.com/	No	
